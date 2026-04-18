@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" role="img" aria-label="moospace logo — Water Trace">
+  <title>moospace — Water Trace (Horizontal)</title>
+  <g transform="translate(95 90)">
+    <path d="M -62,-3 C -66,-36 -14,-38 0,2 C 14,38 66,36 62,-3 C 66,-36 14,-38 0,2 C -14,38 -66,34 -62,-3 Z"
+          fill="none" stroke="#F5C843" stroke-width="5"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M -50,23 Q -25,29 0,25 T 50,23"
+          fill="none" stroke="#F5C843" stroke-width="1.25" opacity="0.5"/>
+  </g>
+  <text x="210" y="88" font-family="Montserrat, 'Helvetica Neue', sans-serif"
+        font-weight="300" font-size="46" letter-spacing="8" fill="#16163F">MOO SPACE</text>
+  <text x="213" y="122" font-family="'Noto Serif TC', 'Source Han Serif TC', serif"
+        font-weight="400" font-size="14" letter-spacing="18" fill="#3C3C4F" opacity="0.75">沐  空  間</text>
+</svg>

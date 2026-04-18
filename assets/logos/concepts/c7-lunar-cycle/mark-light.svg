@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Moospace mark (light bg) — Lunar Cycle">
+  <title>Moospace — Lunar Cycle (Light)</title>
+  <g transform="translate(100 100)">
+    <circle cx="-36" cy="0" r="38" fill="none" stroke="#16163F" stroke-width="2.4"/>
+    <circle cx="36" cy="0" r="38" fill="none" stroke="#16163F" stroke-width="2.4"/>
+    <path d="M -36,-38 A 38,38 0 0 1 -36,38 Z" fill="#F5C843" opacity="0.9"/>
+    <path d="M 36,-38 A 38,38 0 0 0 36,38 Z" fill="#F5C843" opacity="0.9"/>
+    <circle cx="0" cy="0" r="2.5" fill="#16163F"/>
+  </g>
+</svg>

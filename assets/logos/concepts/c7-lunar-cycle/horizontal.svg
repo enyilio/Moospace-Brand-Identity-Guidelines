@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" role="img" aria-label="Moospace logo — Lunar Cycle">
+  <title>Moospace — Lunar Cycle (Horizontal)</title>
+  <g transform="translate(95 90)">
+    <circle cx="-30" cy="0" r="32" fill="none" stroke="#F5C843" stroke-width="1.9"/>
+    <circle cx="30" cy="0" r="32" fill="none" stroke="#F5C843" stroke-width="1.9"/>
+    <path d="M -30,-32 A 32,32 0 0 1 -30,32 Z" fill="#F5C843" opacity="0.22"/>
+    <path d="M 30,-32 A 32,32 0 0 0 30,32 Z" fill="#F5C843" opacity="0.22"/>
+    <circle cx="0" cy="0" r="2.1" fill="#F5C843"/>
+  </g>
+  <text x="210" y="88" font-family="'Cormorant Garamond','Noto Serif TC',serif"
+        font-weight="300" font-size="46" letter-spacing="6" fill="#F5C843">Moospace</text>
+  <text x="212" y="120" font-family="'Noto Serif TC','Source Han Serif TC',serif"
+        font-weight="300" font-size="14" letter-spacing="18" fill="#D3B574" opacity="0.8">沐  空  間</text>
+</svg>

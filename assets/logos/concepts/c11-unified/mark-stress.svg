@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-70 -40 140 80" role="img" aria-label="Moospace mark — Stressed Infinity">
+  <title>Moospace — Stressed Infinity</title>
+  <defs>
+    <linearGradient id="goldS" x1="0" y1="-32" x2="0" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FAE39B"/>
+      <stop offset="0.55" stop-color="#F5C843"/>
+      <stop offset="1" stop-color="#B8841E"/>
+    </linearGradient>
+  </defs>
+  <!--
+    書法感 ∞：外輪廓一筆繞過左右兩圈，
+    中央自然收細（thin crossing），兩端最厚，
+    模擬 serif 字體的粗細 stress 軸。
+  -->
+  <path fill="url(#goldS)" fill-rule="evenodd" d="
+    M -56,0
+    C -56,-26 -16,-26 0,-2
+    C 16,-26 56,-26 56,0
+    C 56,26 16,26 0,2
+    C -16,26 -56,26 -56,0 Z
+    M -44,0
+    C -44,-14 -16,-14 -4,0
+    C -16,14 -44,14 -44,0 Z
+    M 44,0
+    C 44,-14 16,-14 4,0
+    C 16,14 44,14 44,0 Z
+  "/>
+</svg>

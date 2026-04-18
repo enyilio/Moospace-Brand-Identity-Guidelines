@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" role="img" aria-label="moospace logo — Geometric Void">
+  <title>moospace — Geometric Void (Horizontal)</title>
+  <g transform="translate(95 90)">
+    <path d="M -66,0 C -66,-30 -22,-30 0,0 C 22,30 66,30 66,0 C 66,-30 22,-30 0,0 C -22,30 -66,30 -66,0 Z"
+          fill="none" stroke="#16163F" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="0" cy="0" r="1.5" fill="#F5C843"/>
+  </g>
+  <text x="210" y="86" font-family="Montserrat, 'Helvetica Neue', sans-serif"
+        font-weight="200" font-size="46" letter-spacing="2" fill="#16163F">MOO SPACE</text>
+  <text x="212" y="120" font-family="'Noto Serif TC', 'Source Han Serif TC', serif"
+        font-weight="300" font-size="14" letter-spacing="20" fill="#3C3C4F" opacity="0.65">沐  空  間</text>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -60 200 120" role="img" aria-label="Moospace mark — Pure">
+  <title>Moospace — Pure</title>
+  <defs>
+    <linearGradient id="goldGrad" x1="0" y1="-40" x2="0" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FAE39B"/>
+      <stop offset="0.55" stop-color="#F5C843"/>
+      <stop offset="1" stop-color="#B8841E"/>
+    </linearGradient>
+  </defs>
+  <path d="M -70,0 C -70,-36 -25,-36 0,0 C 25,36 70,36 70,0 C 70,-36 25,-36 0,0 C -25,36 -70,36 -70,0 Z"
+        fill="none" stroke="url(#goldGrad)" stroke-width="22"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

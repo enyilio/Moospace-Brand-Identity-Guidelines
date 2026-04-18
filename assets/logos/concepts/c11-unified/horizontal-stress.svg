@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 180" role="img" aria-label="Moospace logo — Stressed Infinity">
+  <title>Moospace — Stressed Infinity (Horizontal)</title>
+  <defs>
+    <linearGradient id="goldSH" x1="0" y1="55" x2="0" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FAE39B"/>
+      <stop offset="0.55" stop-color="#F5C843"/>
+      <stop offset="1" stop-color="#B8841E"/>
+    </linearGradient>
+  </defs>
+
+  <text x="70" y="105" font-family="'Cormorant Garamond','Noto Serif TC',serif"
+        font-weight="300" font-size="64" fill="url(#goldSH)">M</text>
+
+  <g transform="translate(180 88)">
+    <path fill="url(#goldSH)" fill-rule="evenodd" d="
+      M -44,0
+      C -44,-20 -12,-20 0,-2
+      C 12,-20 44,-20 44,0
+      C 44,20 12,20 0,2
+      C -12,20 -44,20 -44,0 Z
+      M -34,0
+      C -34,-11 -12,-11 -3,0
+      C -12,11 -34,11 -34,0 Z
+      M 34,0
+      C 34,-11 12,-11 3,0
+      C 12,11 34,11 34,0 Z
+    "/>
+  </g>
+
+  <text x="228" y="105" font-family="'Cormorant Garamond','Noto Serif TC',serif"
+        font-weight="300" font-size="64" fill="url(#goldSH)">space</text>
+
+  <text x="70" y="140" font-family="'Noto Serif TC','Source Han Serif TC',serif"
+        font-weight="300" font-size="13" letter-spacing="16"
+        fill="#D3B574" opacity="0.85">沐  空  間</text>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="moospace mark reversed — Aura Pulse">
+  <title>moospace — Aura Pulse (Reversed)</title>
+  <defs>
+    <radialGradient id="c4r-aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F5C843" stop-opacity="0.55"/>
+      <stop offset="35%" stop-color="#F5C843" stop-opacity="0.25"/>
+      <stop offset="75%" stop-color="#F5C843" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#F5C843" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="c4r-inf" x1="0%" y1="20%" x2="100%" y2="80%">
+      <stop offset="0%" stop-color="#FFE08A"/>
+      <stop offset="50%" stop-color="#F5C843"/>
+      <stop offset="100%" stop-color="#E6B032"/>
+    </linearGradient>
+  </defs>
+  <circle cx="100" cy="100" r="92" fill="url(#c4r-aura)"/>
+  <g transform="translate(100 100)">
+    <path d="M -70,0 C -70,-32 -22,-32 0,0 C 22,32 70,32 70,0 C 70,-32 22,-32 0,0 C -22,32 -70,32 -70,0 Z"
+          fill="none" stroke="url(#c4r-inf)" stroke-width="8"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

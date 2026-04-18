@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="moospace mono — Water Trace">
+  <title>moospace — Water Trace (Mono)</title>
+  <g transform="translate(100 100)">
+    <path d="M -76,-4 C -80,-44 -18,-48 0,2 C 18,48 80,44 76,-4 C 80,-44 18,-48 0,2 C -18,48 -80,42 -76,-4 Z"
+          fill="none" stroke="currentColor" stroke-width="6"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M -60,28 Q -30,36 0,30 T 60,28"
+          fill="none" stroke="currentColor" stroke-width="1.5"
+          stroke-linecap="round" opacity="0.5"/>
+  </g>
+</svg>

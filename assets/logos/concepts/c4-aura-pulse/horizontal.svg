@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" role="img" aria-label="moospace logo — Aura Pulse">
+  <title>moospace — Aura Pulse (Horizontal)</title>
+  <defs>
+    <radialGradient id="c4h-aura" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F5C843" stop-opacity="0.4"/>
+      <stop offset="40%" stop-color="#F5C843" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#F5C843" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="c4h-inf" x1="0%" y1="20%" x2="100%" y2="80%">
+      <stop offset="0%" stop-color="#F8D24A"/>
+      <stop offset="50%" stop-color="#F5C843"/>
+      <stop offset="100%" stop-color="#D99F1E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="95" cy="90" r="82" fill="url(#c4h-aura)"/>
+  <g transform="translate(95 90)">
+    <path d="M -60,0 C -60,-28 -20,-28 0,0 C 20,28 60,28 60,0 C 60,-28 20,-28 0,0 C -20,28 -60,28 -60,0 Z"
+          fill="none" stroke="url(#c4h-inf)" stroke-width="6.5"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="210" y="88" font-family="Merriweather, 'Noto Serif TC', serif"
+        font-weight="300" font-size="40" letter-spacing="3" fill="#16163F">Moo Space</text>
+  <text x="212" y="120" font-family="'Noto Serif TC', 'Source Han Serif TC', serif"
+        font-weight="400" font-size="13" letter-spacing="16" fill="#3C3C4F" opacity="0.7">沐  空  間</text>
+</svg>

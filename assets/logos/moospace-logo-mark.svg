@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-label="MooSpace Mark">
+  <defs>
+    <linearGradient id="mooGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8D24A"/>
+      <stop offset="50%" stop-color="#F5C843"/>
+      <stop offset="100%" stop-color="#D99F1E"/>
+    </linearGradient>
+  </defs>
+  <path d="M 20 60
+           C 20 10, 90 10, 110 60
+           C 130 110, 200 110, 200 60
+           C 200 10, 130 10, 110 60
+           C 90 110, 20 110, 20 60 Z"
+        fill="none"
+        stroke="url(#mooGold)"
+        stroke-width="22"
+        stroke-linejoin="round"
+        stroke-linecap="round"/>
+</svg>

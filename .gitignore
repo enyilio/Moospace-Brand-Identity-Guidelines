@@ -1,0 +1,21 @@
+# Node 相依（本地產生 logo 的工具用，不需要進 repo）
+node_modules/
+
+# 早期設計草稿
+_archive/
+
+# 作業系統產生的檔案
+.DS_Store
+Thumbs.db
+
+# 編輯器
+.vscode/
+.idea/
+
+# 日誌
+*.log
+npm-debug.log*
+
+# 產出快取
+.cache/
+dist/

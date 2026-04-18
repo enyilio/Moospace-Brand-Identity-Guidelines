@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 -40 120 80" role="img" aria-label="Moospace mark — Unified oo">
+  <title>Moospace — Unified oo (Mark)</title>
+  <defs>
+    <linearGradient id="goldU" x1="0" y1="-32" x2="0" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FAE39B"/>
+      <stop offset="0.55" stop-color="#F5C843"/>
+      <stop offset="1" stop-color="#B8841E"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#goldU)" fill-rule="nonzero" d="
+    M -40,0
+    A 22,28 0 1 0 4,0
+    A 22,28 0 1 0 -40,0 Z
+    M -28,0
+    A 10,16 0 1 1 -8,0
+    A 10,16 0 1 1 -28,0 Z
+    M -4,0
+    A 22,28 0 1 0 40,0
+    A 22,28 0 1 0 -4,0 Z
+    M 8,0
+    A 10,16 0 1 1 28,0
+    A 10,16 0 1 1 8,0 Z
+  "/>
+</svg>

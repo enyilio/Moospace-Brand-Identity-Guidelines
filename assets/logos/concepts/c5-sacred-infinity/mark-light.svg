@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Moospace mark (light bg) — Sacred Infinity">
+  <title>Moospace — Sacred Infinity (Light)</title>
+  <g transform="translate(100 100)" fill="none" stroke="#16163F" stroke-linejoin="round">
+    <path d="M -72,0 C -72,-34 -24,-34 0,0 C 24,34 72,34 72,0 C 72,-34 24,-34 0,0 C -24,34 -72,34 -72,0 Z" stroke-width="2.2"/>
+    <path d="M -50,0 C -50,-22 -16,-22 0,0 C 16,22 50,22 50,0 C 50,-22 16,-22 0,0 C -16,22 -50,22 -50,0 Z" stroke-width="0.9" opacity="0.55"/>
+    <circle cx="-40" cy="0" r="22" stroke-width="0.8" opacity="0.45"/>
+    <circle cx="-30" cy="-14" r="14" stroke-width="0.7" opacity="0.35"/>
+    <circle cx="-30" cy="14" r="14" stroke-width="0.7" opacity="0.35"/>
+    <circle cx="40" cy="0" r="22" stroke-width="0.8" opacity="0.45"/>
+    <circle cx="30" cy="-14" r="14" stroke-width="0.7" opacity="0.35"/>
+    <circle cx="30" cy="14" r="14" stroke-width="0.7" opacity="0.35"/>
+    <circle cx="-10" cy="0" r="14" stroke-width="0.7" opacity="0.4"/>
+    <circle cx="10" cy="0" r="14" stroke-width="0.7" opacity="0.4"/>
+  </g>
+  <g fill="#F5C843">
+    <circle cx="28" cy="100" r="2"/>
+    <circle cx="172" cy="100" r="2"/>
+    <circle cx="100" cy="100" r="1.8"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="moospace mono — Geometric Void">
+  <title>moospace — Geometric Void (Mono)</title>
+  <g transform="translate(100 100)">
+    <path d="M -78,0 C -78,-36 -26,-36 0,0 C 26,36 78,36 78,0 C 78,-36 26,-36 0,0 C -26,36 -78,36 -78,0 Z"
+          fill="none" stroke="currentColor" stroke-width="1.75" stroke-linejoin="round"/>
+  </g>
+</svg>

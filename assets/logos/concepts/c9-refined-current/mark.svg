@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Moospace mark — Refined Current">
+  <title>Moospace — Refined Current</title>
+  <g transform="translate(100 100)">
+    <!-- Main ∞ stroke, refined lemniscate -->
+    <path d="M -68,0 C -68,-32 -22,-32 0,0 C 22,32 68,32 68,0 C 68,-32 22,-32 0,0 C -22,32 -68,32 -68,0 Z"
+          fill="none" stroke="#F5C843" stroke-width="3" stroke-linejoin="round"/>
+    <!-- Signature gold terminal dots (refined from current header logo) -->
+    <circle cx="-68" cy="0" r="5" fill="#F5C843"/>
+    <circle cx="68" cy="0" r="5" fill="#F5C843"/>
+    <!-- Subtle center accent -->
+    <circle cx="0" cy="0" r="1.8" fill="#F5C843" opacity="0.7"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-label="MooSpace Logo">
+  <g fill="none" stroke="currentColor" stroke-width="18" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M 150 80
+             C 150 30, 220 30, 240 80
+             C 260 130, 330 130, 330 80
+             C 330 30, 260 30, 240 80
+             C 220 130, 150 130, 150 80 Z"/>
+  </g>
+  <line x1="30" y1="170" x2="450" y2="170" stroke="currentColor" stroke-width="3"/>
+  <text x="240" y="275"
+        text-anchor="middle"
+        font-family="Montserrat, 'Century Gothic', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="66"
+        font-weight="300"
+        letter-spacing="6"
+        fill="currentColor">Moo  Space</text>
+</svg>

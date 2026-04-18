@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 -40 120 80" role="img" aria-label="Moospace mark (light bg) — Unified oo">
+  <title>Moospace — Unified oo (Light)</title>
+  <defs>
+    <linearGradient id="goldULight" x1="0" y1="-32" x2="0" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E0A82E"/>
+      <stop offset="1" stop-color="#8A5F14"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#goldULight)" fill-rule="nonzero" d="
+    M -40,0
+    A 22,28 0 1 0 4,0
+    A 22,28 0 1 0 -40,0 Z
+    M -28,0
+    A 10,16 0 1 1 -8,0
+    A 10,16 0 1 1 -28,0 Z
+    M -4,0
+    A 22,28 0 1 0 40,0
+    A 22,28 0 1 0 -4,0 Z
+    M 8,0
+    A 10,16 0 1 1 28,0
+    A 10,16 0 1 1 8,0 Z
+  "/>
+</svg>

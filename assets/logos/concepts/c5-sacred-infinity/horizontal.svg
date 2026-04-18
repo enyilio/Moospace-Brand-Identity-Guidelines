@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" role="img" aria-label="Moospace logo — Sacred Infinity">
+  <title>Moospace — Sacred Infinity (Horizontal)</title>
+  <g transform="translate(95 90)" fill="none" stroke="#F5C843" stroke-linejoin="round">
+    <path d="M -60,0 C -60,-28 -20,-28 0,0 C 20,28 60,28 60,0 C 60,-28 20,-28 0,0 C -20,28 -60,28 -60,0 Z" stroke-width="1.8"/>
+    <path d="M -42,0 C -42,-18 -13,-18 0,0 C 13,18 42,18 42,0 C 42,-18 13,-18 0,0 C -13,18 -42,18 -42,0 Z" stroke-width="0.75" opacity="0.5"/>
+    <circle cx="-34" cy="0" r="18" stroke-width="0.7" opacity="0.4"/>
+    <circle cx="34" cy="0" r="18" stroke-width="0.7" opacity="0.4"/>
+    <circle cx="-8" cy="0" r="12" stroke-width="0.6" opacity="0.35"/>
+    <circle cx="8" cy="0" r="12" stroke-width="0.6" opacity="0.35"/>
+  </g>
+  <g fill="#F5C843">
+    <circle cx="35" cy="90" r="1.6"/>
+    <circle cx="155" cy="90" r="1.6"/>
+    <circle cx="95" cy="90" r="1.4"/>
+  </g>
+  <text x="210" y="88" font-family="'Cormorant Garamond','Noto Serif TC',serif"
+        font-weight="300" font-size="46" letter-spacing="6" fill="#F5C843">Moospace</text>
+  <text x="212" y="120" font-family="'Noto Serif TC','Source Han Serif TC',serif"
+        font-weight="300" font-size="14" letter-spacing="18" fill="#D3B574" opacity="0.8">沐  空  間</text>
+</svg>

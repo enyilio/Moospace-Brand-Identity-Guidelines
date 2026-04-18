@@ -1,0 +1,20 @@
+{
+  "name": "brand-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "jsdom": "^29.0.2",
+    "jspdf": "^4.2.1",
+    "sharp": "^0.34.5",
+    "svg2pdf.js": "^2.7.0"
+  }
+}
