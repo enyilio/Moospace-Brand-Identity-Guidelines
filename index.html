@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Montserrat:wght@200;300;400;500;600&family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Serif+TC:wght@400;500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style.css?v=2">
   <link rel="icon" type="image/png" href="assets/logos/moospace-logo-ribbon.png">
 </head>
 <body>
@@ -200,9 +200,9 @@
           </defs>
           <rect width="600" height="360" fill="url(#grid)"/>
 
-          <!-- infinity symbol (stylized) -->
-          <g transform="translate(180, 90)" fill="none" stroke="#16163F" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M 30 60 C 30 20, 110 20, 120 60 C 130 100, 210 100, 210 60 C 210 20, 130 20, 120 60 C 110 100, 30 100, 30 60 Z"/>
+          <!-- infinity symbol — exact path from moospace-logo-mark.svg, width 180 × height 100 -->
+          <g transform="translate(190, 70)" fill="none" stroke="#16163F" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M 20 60 C 20 10, 90 10, 110 60 C 130 110, 200 110, 200 60 C 200 10, 130 10, 110 60 C 90 110, 20 110, 20 60 Z"/>
           </g>
 
           <!-- baseline -->
@@ -224,9 +224,9 @@
 
           <!-- X-height unit label -->
           <g font-family="Montserrat, sans-serif" font-size="12" fill="#69727D" letter-spacing="2">
-            <text x="30" y="130">1X</text>
-            <text x="30" y="230">3X</text>
-            <text x="40" y="25">← safe area →</text>
+            <text x="30" y="130">1.67X</text>
+            <text x="210" y="25">3X (W)</text>
+            <text x="40" y="350">safe area</text>
           </g>
 
           <!-- dots for key points -->
@@ -239,10 +239,10 @@
         </svg>
       </div>
       <div class="construction-text">
-        <p data-i18n="logo.construction_desc">以「Moo」字高為基本單位 X。無限符號佔用 3X，字與符號之間的間距為 1X，文字字距 letter-spacing 為 0.5X。所有比例以此為準，不可自行調整間距或大小。</p>
+        <p data-i18n="logo.construction_desc">以「Moo」字高為基本單位 X。無限符號寬度為 3X、高度約 1.67X（比例 1.8:1），字與符號之間的間距為 1X，文字字距 letter-spacing 為 0.5X。所有比例以此為準，不可自行調整間距或大小。</p>
         <ul class="construction-specs">
           <li><span data-i18n="logo.spec1_k">單位</span><em>1X = Moo 字高</em></li>
-          <li><span data-i18n="logo.spec2_k">符號高度</span><em>3X</em></li>
+          <li><span data-i18n="logo.spec2_k">符號尺寸</span><em>3X × 1.67X</em></li>
           <li><span data-i18n="logo.spec3_k">符號與文字間距</span><em>1X</em></li>
           <li><span data-i18n="logo.spec4_k">文字字距</span><em>0.5X</em></li>
           <li><span data-i18n="logo.spec5_k">Logo 寬高比</span><em>10 : 6</em></li>
@@ -1175,6 +1175,6 @@
   </div>
 </footer>
 
-<script src="assets/js/app.js"></script>
+<script src="assets/js/app.js?v=2"></script>
 </body>
 </html>
