@@ -216,6 +216,11 @@ a { color: inherit; text-decoration: none; }
 }
 
 @keyframes floaty {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+@keyframes floaty-centered {
   0%, 100% { transform: translate(-50%, 0); }
   50% { transform: translate(-50%, -8px); }
 }
@@ -271,7 +276,7 @@ a { color: inherit; text-decoration: none; }
   font-size: 12px;
   letter-spacing: 0.2em;
   color: rgba(255,255,255,0.6);
-  animation: floaty 3s ease-in-out infinite;
+  animation: floaty-centered 3s ease-in-out infinite;
 }
 
 /* =============== INTRO =============== */
