@@ -675,6 +675,25 @@ document.addEventListener('DOMContentLoaded', () => {
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
+  // Mobile hamburger menu
+  const toggle = document.querySelector('.nav-toggle');
+  const nav = document.querySelector('.site-nav');
+  const backdrop = document.querySelector('.nav-backdrop');
+  const setMenu = (open) => {
+    if (!toggle || !nav || !backdrop) return;
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+    nav.classList.toggle('is-open', open);
+    backdrop.classList.toggle('is-open', open);
+    backdrop.hidden = !open;
+    document.body.classList.toggle('nav-open', open);
+  };
+  if (toggle) {
+    toggle.addEventListener('click', () => setMenu(toggle.getAttribute('aria-expanded') !== 'true'));
+    backdrop.addEventListener('click', () => setMenu(false));
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') setMenu(false); });
+    navLinks.forEach(a => a.addEventListener('click', () => setMenu(false)));
+  }
+
   // Fade-up entrance on scroll
   if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     const io = new IntersectionObserver((entries) => {
