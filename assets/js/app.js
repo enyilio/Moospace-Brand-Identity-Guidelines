@@ -59,7 +59,7 @@ const i18n = {
     // 02 logo
     'logo.title': 'Logo 使用規範',
     'logo.eyebrow': 'Logo Guidelines',
-    'logo.primary': '主要版本（彩色 Color）',
+    'logo.primary': '主要版本（Primary Mark）',
     'logo.mono': '單色黑版本（亮底使用）',
     'logo.reverse': '反白版本（暗底使用）',
     'logo.safearea_title': '安全空間',
@@ -368,7 +368,7 @@ const i18n = {
     // 02 logo
     'logo.title': 'Logo Guidelines',
     'logo.eyebrow': 'Logo',
-    'logo.primary': 'Primary (full color)',
+    'logo.primary': 'Primary (mark only)',
     'logo.mono': 'Monochrome (on light background)',
     'logo.reverse': 'Reversed (on dark background)',
     'logo.safearea_title': 'Safe Area',
