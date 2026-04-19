@@ -478,6 +478,11 @@ a { color: inherit; text-decoration: none; }
   max-height: 50%;
 }
 
+.logo-preview--reverse img {
+  max-width: 70%;
+  max-height: 90%;
+}
+
 .logo-lockup__caption {
   font-size: 0.9rem;
   color: var(--mid);
@@ -959,6 +964,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .app-mock--social {
+  aspect-ratio: 1 / 1;
   background:
     radial-gradient(circle at 30% 30%, rgba(245, 200, 67, 0.2), transparent 50%),
     linear-gradient(135deg, #FAFAFA, #F2F2F2);

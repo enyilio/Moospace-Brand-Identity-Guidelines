@@ -79,3 +79,12 @@ await buildLockup({
   accent: '#111111',
   outName: 'moospace-logo-dark.png',
 });
+
+await buildLockup({
+  W: 1200, H: 1200,
+  ribbonW: 520, padTop: 360, gap: 80, textGap: 180, fontSize: 150,
+  bgRect: null,
+  ribbonBuffer: ribbonPath,
+  accent: '#F5C843',
+  outName: 'moospace-logo-reverse.png',
+});
