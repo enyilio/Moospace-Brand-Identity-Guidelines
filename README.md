@@ -4,7 +4,10 @@ Moospace（沐空間）品牌識別設計規範 — 單頁式 bilingual（中/EN
 
 ## 線上檢視
 
-發佈後將在 GitHub Pages 提供。
+- https://brand.moospace.info（正式網址）
+- https://moospace-brand-guide.pages.dev（Cloudflare Pages 預設網址）
+
+每次 push 到 `main` 由 GitHub Actions（`.github/workflows/deploy.yml`）自動部署到 Cloudflare Pages。
 
 ## 本地預覽
 
